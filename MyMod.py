@@ -169,12 +169,5 @@ def UpdColumn(db,c):
                      else:
                         continue
                    
-    
-"""
-# Update data in the table:
-def updateTable(db,c):
-    print("Existing Data:\n")
-    DisplayTable(db,c)
-    pass
-"""
+
 
